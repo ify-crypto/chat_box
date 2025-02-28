@@ -8,7 +8,7 @@ import numpy as np
 import warnings
 warnings.filterwarnings('ignore')
 # import spacy
-lemmatizer = nltk.stem.WordNetLemmatizer()
+# lemmatizer = nltk.stem.WordNetLemmatizer()
 
 
 
