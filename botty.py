@@ -1,4 +1,4 @@
-# import nltk
+#import nltk
 import random
 import streamlit as st
 #from sklearn.feature_extraction.text import TfidfVectorizer
